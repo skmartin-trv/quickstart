@@ -1,4 +1,11 @@
 terraform {
+  backend "remote" {
+    organization = "example-org-e30842"
+
+    workspaces {
+      name = "rancher-setup"
+    }
+  }
   required_providers {
     aws = {
       source  = "hashicorp/aws"
