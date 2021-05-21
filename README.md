@@ -6,7 +6,7 @@ Intended for experimentation/evaluation ONLY.
 
 **You will be responsible for any and all infrastructure costs incurred by these resources.**
 As a result, this repository minimizes costs by standing up the minimum required resources for a given provider.
-Use Vagrant to run Rancher locally and avoid cloud costs.
+Use Vagrant to run Rancher locally and avoid cloud costs..
 
 ## Local quickstart
 
