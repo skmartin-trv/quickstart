@@ -2,7 +2,7 @@
 
 Quickly stand up an HA-style Rancher management server in your infrastructure provider of choice.
 
-Intended for experimentation/evaluation ONLY.
+Intended for experimentation/evaluation ONLY..
 
 **You will be responsible for any and all infrastructure costs incurred by these resources.**
 As a result, this repository minimizes costs by standing up the minimum required resources for a given provider.
