@@ -4,6 +4,8 @@ Two single-node RKE Kubernetes clusters will be created from two EC2 instances r
 Both instances will have wide-open security groups and will be accessible over SSH using the SSH keys
 `id_rsa` and `id_rsa.pub`..
 
+test
+
 ## Variables
 
 ###### `aws_access_key`
